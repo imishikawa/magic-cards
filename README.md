@@ -1,0 +1,1 @@
+O código simula um truque de mágica onde um baralho de cartas é embaralhado, e duas posições (uma escolhida pelo mágico e outra pela plateia) são verificadas para ver se elas acabam na mesma carta após um determinado número de saltos baseado no valor das cartas.
