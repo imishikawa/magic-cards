@@ -28,7 +28,7 @@ for i in range(1,14):
         baralho.append(carta)
 
 
-Nmax = 1000000
+Nmax = 10000
 
 soma = 1
 while soma==1:
